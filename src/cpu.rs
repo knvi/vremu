@@ -1,4 +1,4 @@
-//! The cpu module contains `Cpu` and implementarion for it.
+//! The cpu module contains `Cpu` and implementation for it.
 
 #![allow(dead_code)]
 
